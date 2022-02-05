@@ -1,3 +1,22 @@
 # 미국 코로나 데이터 분석
 혁신성장청년인재집중양성산업 빅데이터 분석기반 비즈니스개발자 양성 및 취업연계 과정에서 진행된 프로젝트입니다.   
 자세한 내용은 첨부파일 PPT에 있습니다. 
+![b4b97602042e08e599c15d79a856b62a-0](https://user-images.githubusercontent.com/84513149/152641097-d428ee11-2416-4c41-953d-41380d1ed189.png)
+![b4b97602042e08e599c15d79a856b62a-1](https://user-images.githubusercontent.com/84513149/152641098-5441110e-e0c4-4826-8080-64c87cfccf71.png)
+![b4b97602042e08e599c15d79a856b62a-2](https://user-images.githubusercontent.com/84513149/152641099-a6e621ee-b048-4c27-8dc7-8432c87fbb6d.png)
+![b4b97602042e08e599c15d79a856b62a-3](https://user-images.githubusercontent.com/84513149/152641101-0a713e91-7b9a-41a6-bdfe-3e655fef0150.png)
+![b4b97602042e08e599c15d79a856b62a-4](https://user-images.githubusercontent.com/84513149/152641103-e807c4ec-7c97-4253-9780-936909c51dae.png)
+![b4b97602042e08e599c15d79a856b62a-5](https://user-images.githubusercontent.com/84513149/152641104-7aae1787-a12b-4753-b4e9-b4edfe203e9c.png)
+![b4b97602042e08e599c15d79a856b62a-6](https://user-images.githubusercontent.com/84513149/152641106-4d117f3b-6660-483a-acaf-5289ff6998a3.png)
+![b4b97602042e08e599c15d79a856b62a-7](https://user-images.githubusercontent.com/84513149/152641107-eae66946-e999-41e7-b54f-93d74abeacad.png)
+![b4b97602042e08e599c15d79a856b62a-8](https://user-images.githubusercontent.com/84513149/152641108-f45c873c-508f-4e98-a120-68b8d17c82b3.png)
+![b4b97602042e08e599c15d79a856b62a-9](https://user-images.githubusercontent.com/84513149/152641109-1b640751-7915-4be2-bd1d-54f9158d9971.png)
+![b4b97602042e08e599c15d79a856b62a-10](https://user-images.githubusercontent.com/84513149/152641111-b47741c1-7730-4cd1-a5f3-adc770f33e38.png)
+![b4b97602042e08e599c15d79a856b62a-11](https://user-images.githubusercontent.com/84513149/152641112-a6cab1cc-3da6-4d23-a88c-08e6b06c4931.png)
+![b4b97602042e08e599c15d79a856b62a-12](https://user-images.githubusercontent.com/84513149/152641113-08bc7a78-645d-4185-b0e6-c2c90c921cbd.png)
+![b4b97602042e08e599c15d79a856b62a-13](https://user-images.githubusercontent.com/84513149/152641115-f193beda-8f25-4c6f-9385-641f221c610b.png)
+![b4b97602042e08e599c15d79a856b62a-14](https://user-images.githubusercontent.com/84513149/152641122-0583668b-6c37-47f0-a7d0-62681d7158fc.png)
+![b4b97602042e08e599c15d79a856b62a-15](https://user-images.githubusercontent.com/84513149/152641123-7c0049cf-7aa3-4612-8bda-e996a0af49f6.png)
+![b4b97602042e08e599c15d79a856b62a-16](https://user-images.githubusercontent.com/84513149/152641125-0412ff74-b107-476d-85a2-bda507e86740.png)
+![b4b97602042e08e599c15d79a856b62a-17](https://user-images.githubusercontent.com/84513149/152641127-f69d5326-b1df-4db0-8658-c33b024eab38.png)
+![b4b97602042e08e599c15d79a856b62a-18](https://user-images.githubusercontent.com/84513149/152641129-55c4eb51-f1bd-4390-8062-e159c0eb142d.png)
